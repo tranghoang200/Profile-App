@@ -9,7 +9,7 @@ const POLO_BLUE_COLOR = "rgb(51,60,87)";
 class Navigation extends React.Component {
   render() {
     return (
-      <View style={{ flex: 0.75, flexDirection: "row", alignItems: "center" }}>
+      <View style={{ flex: 0.65, flexDirection: "row", alignItems: "center" }}>
         <View style={{ flex: 1, marginLeft: 80 }}>
           <MaterialCommunityIcons
             name="view-dashboard-outline"

@@ -110,7 +110,7 @@ const styles = StyleSheet.create({
       },
       textFullName: {
         fontWeight: "bold",
-        fontSize: 25,
+        fontSize: 22,
         color: "black",
       },
       jobTitle: {
@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
         justifyContent: "space-between",
       },
       follow: {
-        width: 120,
+        width: 110,
         height: 40,
         borderRadius: 25,
         backgroundColor: FOLLOW_COLOR,
@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
         marginRight: 20,
         borderRadius: 20,
         backgroundColor: SEND_MESSAGE_COLOR,
-        width: 80,
+        width: 70,
         height: 40,
         justifyContent: "center",
         alignItems: "center",
